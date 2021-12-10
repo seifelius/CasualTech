@@ -7,5 +7,5 @@ Python
  - Numpy  : Link to read about :https://numpy.org/doc/stable/user/whatisnumpy.html
                                 https://pypi.org/project/numpy/
                                 https://www.w3schools.com/python/numpy/numpy_intro.asp
-  -  -  - comand to install    : pip install numpy
+  -  -  - comand to install    : pip install -U numpy
 ////////////////////////////////////////////////////////////////////////////////////////////////
