@@ -1,10 +1,14 @@
 VNC
 ////////////////////////////////////////////////////////////////////////////////////////////////
  - Cannot swod desktop
-  -  solution  - from ssh or directly change desktop resolution (1920*1080) works for me
+  -  - solution link -  -      from ssh or directly change desktop resolution (1920*1080) works for me
 ////////////////////////////////////////////////////////////////////////////////////////////////
 Python
 ////////////////////////////////////////////////////////////////////////////////////////////////
  - Change Python2 to Python3 default
-  -  solution  - https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi
+  -  - solution link -  -      https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi
+////////////////////////////////////////////////////////////////////////////////////////////////
+ - ImportError: libcblas.so.3: cannot open shared object file: No such file or directory
+  -  - solution link -  -      https://stackoverflow.com/questions/53347759/importerror-libcblas-so-3-cannot-open-shared-object-file-no-such-file-or-dire
+  -  - solution      -  -      sudo apt-get install libatlas-base-dev
 ////////////////////////////////////////////////////////////////////////////////////////////////
