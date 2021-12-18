@@ -20,3 +20,7 @@ Python
  - quicktimer : Link to read about :https://pypi.org/project/quicktimer/
   -  -  - comand to install    : pip install quicktimer
 ////////////////////////////////////////////////////////////////////////////////////////////////
+ - picamera : Link to read about :https://picamera.readthedocs.io/en/release-1.13/
+                                    https://pypi.org/project/picamera/
+  -  -  - comand to install    : pip install picamera
+////////////////////////////////////////////////////////////////////////////////////////////////
