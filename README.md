@@ -1,4 +1,5 @@
 # Start up
+
 1) Connect to Car via VNC to domain "BFMC_Car"
 2) Open Start_main on desktop and execute the commands
 3) Write the ip, which can get from Start_main to 
@@ -6,6 +7,7 @@
 4) Run \Brain-master\main.py
 
 # Passwords
+
 Rasberian on car
 Rasbery account name: pi
 Rasbery password:     pi
