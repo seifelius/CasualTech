@@ -13,8 +13,8 @@
 --Rasbery password:     pi
 
 - WiFi:
---SSID:   Casual_Tech
---Pass:   CasualPass
+   SID:   Casual_Tech
+   Pass:   CasualPass
 
 
 - Gmail:
