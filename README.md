@@ -13,16 +13,16 @@ Rasberian on car:
 -Rasbery password:     pi
 
 WiFi:
--SID:   Casual_Tech
--Pass:   CasualPass
+ - SID:   Casual_Tech
+ - Pass:   CasualPass
 
 Gmail:
--email:   casualtech2021@gmail.com
--pass:    CasualPass
+ - email:   casualtech2021@gmail.com
+ - pass:    CasualPass
 
 VNC:     
--log:     casualtech2021@gmail.com
--pass:    CasualPass
+ - log:     casualtech2021@gmail.com
+ - pass:    CasualPass
 
 # Other
 For remote control there is VNC and SSH eneblad.
